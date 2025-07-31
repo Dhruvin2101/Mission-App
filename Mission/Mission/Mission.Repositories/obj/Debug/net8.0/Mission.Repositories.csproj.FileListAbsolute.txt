@@ -1,0 +1,101 @@
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Summer Internship\Day 8 LDRP\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.runtimeconfig.json
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.genruntimeconfig.cache
+C:\Users\HP\Downloads\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.runtimeconfig.json
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.sourcelink.json
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.genruntimeconfig.cache
+C:\Users\HP\Desktop\work\Virtual-Community-Support\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.runtimeconfig.json
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.genruntimeconfig.cache
+C:\Users\Dharm Trivedi\Desktop\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.runtimeconfig.json
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.genruntimeconfig.cache
+C:\Users\DHRUVIN PATEL\Desktop\DTrivedi\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.runtimeconfig.json
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.genruntimeconfig.cache
+C:\Users\DHRUVIN PATEL\Desktop\Dhruvin_final\Mission\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
